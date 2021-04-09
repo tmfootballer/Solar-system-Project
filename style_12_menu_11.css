@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.one_p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hyper_links{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul li{
+    display: inline;
+}
+ul li a{
+    margin-right: 5%;
+    padding: 2px;
+}
+ul{
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+}
